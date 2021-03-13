@@ -1,4 +1,4 @@
-class FORMS {
+class Form{
     constructor() {
    this.button=createButton(' PLAY');
    this.EASY=createButton(' EASY');
