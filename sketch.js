@@ -7,7 +7,7 @@ function preload(){
 
 function setup(){
   canvas = createCanvas(displayWidth - 20, displayHeight-140);
-  form =new FORMS ();
+  form =new Form();
 
 }
 
